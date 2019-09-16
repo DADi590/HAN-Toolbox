@@ -1,50 +1,14 @@
-# HAN-Toolbox-v0.6 (2018/12/23)
+# HAN Toolbox Unofficial
 
-## New in v0.6 : 
-* 3 versions : SuperLite / Lite / Full ;
-* HAN Enabler, Soft Reboot and Debug Packages Enabler Offline codes added (4.82 CEX only) - thanks to @lmn7 ;
-* New File copier (PS3 to USB & vice-versa) (4.82 CEX only) - again, thanks to @lmn7 ;
-* New xRegistry.sys Operations (Backup/Restore System Settings) added - thanks to Demon Hades ;
-* Demo Downloader updated : demo info added (PKG size + genre + metascore) + 3 ways of sorting demos (alpha + by genre + by metascore) -- btw, "TBD" means that no metascore was given to that game ;
-* NoPSN Apps Downloader added - download and install NoPSN HAN compatible Apps hacks by @esc0rtd3w ;
-* Multi-language support added ;
-* Icon notification when update is available, just like XMBPD - you can also read the changelog from the XMB ;
-* Misc other things.
+Hi everyone.
 
-## Features versions : 
+I didn't have much to do, and I still use HAN (I've CFW in another PS3, so I don't really need HEN), so I wanted to update HAN Toolbox, since I read it will no longer be updated. In this release, I added support for HAN main functions from 4.81 to 4.85, both CEX and DEX, and all offline. Added an option for Offline Hard Rebooter too, and renamed all the options that are offline to have "Offline" in the beggining. I thought in making for functions offline, but seeing what has been wrote to make the functions offline, I don't have the time to do it (nor the motivation, since I don't even think many will use this, because of the existance of HEN).
 
-| Feature | Superlite | Lite | Full |
-| ------- | --------- | ---- | ---- |
-| Custom XMB icons (Metalification) | No | No | Yes |
-| Multi-language support | No | No | Yes |
-| Demo Downloader support | No | No | Yes |
-| NoPSN Downloader support | No | No | Yes |
-| Theme Downloader support | No | No | Yes |
-| Wallpaper Downloader support | No | No | Yes |
-| PS3Xploit tools | Basic only | Basic/Advanced | Basic/Advanced |
-| PKG Linker support | Basic | Advanced | Advanced |
+Anyways, hope you enjoy it. It's not supposed to have any bugs, but if it does, just tell me and I'll fix them (if I know how to fix them haha).
 
-## Multi-language support : 
+For anyone wanting this on CFW. Try installing it normally as it's done on OFW. If it doesn't show up, you need either to edit category_game.xml for the PS3 to know it has to load HAN Toolbox or you need to install HAN on it (if you're on 4.84 or newer, only Rebug can have HAN installed - unless you copy the silk_webkit.sprx from any 4.82 FW to your current CFW).
 
-| Language | Translated |
-| ------- | ------- |
-| Japanese | No |
-| English (United States) | Default |
-| French | Yes |
-| Spanish | Yes |
-| German | No |
-| Italian | Yes |
-| Dutch | No |
-| Portuguese (Portugal) | Yes |
-| Russian | Yes |
-| Korean | No |
-| Chinese (Traditional) | No |
-| Chinese (Simplified) | Yes |
-| Finnish | Yes |
-| Swedish | Yes |
-| Danish | No |
-| Norwegian | No |
-| Polish | Yes |
-| Portuguese (Brazil) | Yes |
-| English (United Kingdom) | Default |
-| Turkish | Yes |
+3 notes:
+- Only English available (if anyone wants to translate it, just tell me);
+- I didn't test this in all firmwares. Only on OFW 4.82 and HFW 4.85, and it worked on both;
+- Offline Soft Rebooter takes ages to complete, while Offline Hard Rebooter takes about 10 seconds. No idea why, as I just changed a value (and a variable name) to convert from Soft Rebooter to Hard Rebooter.
