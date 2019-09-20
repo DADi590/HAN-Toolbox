@@ -1,5 +1,5 @@
 ---Unofficial--
-* v0.8.1 (2019/09/13) :
+* [LATEST] v0.8.1 (2019/09/13) :
 -Fixed DEX options (HAN Toolbox wouldn't load on DEX), since I added the new options, but I forgot to tell the PS3 to load them (added Attributes but I forgot to edit the Queries)... Sorry, my bad. Realized it when I was copying the code to add to another toolbox.
 
 * v0.8 (2019/09/12) :
