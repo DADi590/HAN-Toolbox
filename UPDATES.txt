@@ -1,6 +1,6 @@
 File for HAN Toolbox Unofficial to check and prompt about updates linked bellow (the same that are on "Releases")
 ---
-0.9 --> 0.90 --> Please go to Toolbox Settings and then to Update Toolbox to know where to get it.
+0.9 --> 0.90 --> http://github.com/DADi590/HAN-Toolbox-Unofficial/releases/download/v0.8/HAN_Toolbox_Unofficial_0_8_EN.pkg
 - Internet dependency removed for all the webpages. Now the toolbox can be used totally offline (package with online versions provided in case the offline ones do not work well - there can be bugs, as it is hard to make them stable offline);
 - 
 - Fixed Database Rebuilder not working (too many characters, so the PS3 will not load it) - sorry, I didn't know this at the time;
