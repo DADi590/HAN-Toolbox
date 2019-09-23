@@ -1,6 +1,6 @@
 # HAN Toolbox Unofficial
 
-Copied from the website where I first released this app (PSX-Place): https://www.psx-place.com/resources/ps3-proxy-server-for-android.795/.
+Copied from the website where I first released the toolbox (PSX-Place): https://www.psx-place.com/resources/han-toolbox-unofficial.870/.
 
 Hi everyone.
 
