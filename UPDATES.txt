@@ -2,9 +2,9 @@ File for HAN Toolbox Unofficial to check and prompt about updates linked bellow 
 ---
 0.9 --> 0.90 --> http://github.com/DADi590/HAN-Toolbox-Unofficial/releases/download/v0.8/HAN_Toolbox_Unofficial_0_8_EN.pkg
 - Internet dependency removed for all the webpages. Now the toolbox can be used totally offline (package with online versions provided in case the offline ones do not work well - there can be bugs, as it is hard to make them stable offline);
-- 
+
 - Fixed Database Rebuilder not working (too many characters, so the PS3 will not load it) - sorry, I didn't know this at the time;
-- 
+
 - Full package provided now with all the resources from version 0.7.1 (not just the resources PKG, really ALL the resources, including coldboots and those things - TO SEE IF IT'S POSSIBLE OR NOT!!!!!!!!!!);
-- 
+
 - Offline Temperature Reader now displays the temperatures also in Fahrenheit.
