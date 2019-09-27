@@ -7,4 +7,6 @@ File for HAN Toolbox Unofficial to check and prompt about updates linked bellow 
 
 - Full package provided now with all the resources from version 0.7.1 (not just the resources PKG, really ALL the resources, including coldboots and those things - TO SEE IF IT'S POSSIBLE OR NOT!!!!!!!!!!);
 
-- Offline Temperature Reader now displays the temperatures also in Fahrenheit.
+- Offline Temperature Reader now displays the temperatures also in Fahrenheit;
+
+- Option to install PSX-Place's news Downloader (replaces What's New).
