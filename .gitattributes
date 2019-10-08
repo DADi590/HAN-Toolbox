@@ -1,2 +1,2 @@
 *.js linguist-detectable=true
-
+*.xml linguist-detectable=true
