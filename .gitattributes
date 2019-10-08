@@ -1,2 +1,2 @@
 *.* linguist-language=JavaScript
-*.xml linguist-detectable
+*.xml linguist-detectable=true
