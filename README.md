@@ -18,5 +18,5 @@ For anyone wanting this on **CFW**. Try installing it normally as it's done on O
 
 ### 3 notes:
 - Only English available (if anyone wants to translate it, just tell me);
-- I didn't test this in all firmwares. Only on OFW 4.82 and HFW 4.85, and it worked on both;
+- I didn't test this in all firmwares. Only on OFW 4.82 and HFW 4.85 by another person (both, only on CEX, but DEX should be working too), and it worked on both;
 - Offline Soft Rebooter takes ages to complete, while Offline Hard Rebooter takes about 10 seconds. No idea why, as I just changed a value (and a variable name) to convert from Soft Rebooter to Hard Rebooter.
