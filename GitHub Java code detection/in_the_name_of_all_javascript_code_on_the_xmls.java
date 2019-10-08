@@ -1,1 +1,1 @@
-File to enable GitHub JavaScript code detection, since JavaScript code is included inside some XML files and that was the main thing I updated/improved.
+File to enable GitHub JavaScript code detection, since JavaScript code is included inside some XML files and that was the main thing I updated/improved (GitHub doesn't detect XML and JavaScript at the same time in this repository for some reason).
