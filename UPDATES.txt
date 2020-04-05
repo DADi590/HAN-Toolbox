@@ -10,4 +10,6 @@ File for HAN Toolbox Unofficial to check and prompt about updates linked bellow 
 
 - The rest of the offline CEX functions are now in DEX too (more specifically: Database Rebuilder, File Copier, Flash Mounter and Temperature Reader);
 
-- Added an Update page and a Changelog page. Both pages are 100% offline. The first one points to where to download updates if there are any (the page checks for updates by itself and shows if there are any updates available). The second only describes all changelogs since the first version of the official HAN Toolbox to the newest version of the unofficial version (this version).
+- Added an Update page and a Changelog page. Both pages are 100% offline. The first one points to where to download updates if there are any (the page checks for updates by itself and shows if there are any updates available). The second only describes all changelogs since the first version of the official HAN Toolbox to the newest version of the unofficial version (this version);
+
+- Added an update checker for HAN Toolbox Unofficial updates in HAN Enabler and Debug Packages Enabler.
