@@ -1,6 +1,8 @@
 File for HAN Toolbox Unofficial to check and prompt about updates linked bellow (the same that are on "Releases")
 ---
+
 > Don't forget... --> After 0.90 comes 1.00, NOT 0.10 (on the first one, after 0.9 comes 0.10, the second one is 1.00 - Christ, idiot less than 1 versions hahaha. NOTE: when the first gets to 1.0, the second gets to 10.0 (multiply by ten, it's the same, the second is just to check bigger or less or equal version)). Unless you actually can make it version 1.0...
+
 0.10 --> 1.00 --> http://github.com/DADi590/HAN-Toolbox-Unofficial/releases/download/v0.9/HAN_Toolbox_Unofficial_0_9_EN.pkg
 - Added support for HFW/CFW 4.86 CEX;
 
