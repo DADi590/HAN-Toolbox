@@ -5,7 +5,7 @@ File for HAN Toolbox Unofficial to check and prompt about updates linked bellow 
 
 > The first number is a string to show the version to the user. The second one is the number for the toolbox to check if it's a newer version or not.
 
-0.10 --> 1.00 --> http://github.com/DADi590/HAN-Toolbox-Unofficial/releases/download/v0.9/HAN_Toolbox_Unofficial_0_9_EN.pkg
+0.9 --> 0.90 --> http://github.com/DADi590/HAN-Toolbox-Unofficial/releases/download/v0.9/HAN_Toolbox_Unofficial_0_9_EN.pkg
 - Added support for HFW/CFW 4.86 CEX;
 
 - Added a new feature: What's New for Browser. This is supposed to mimmic the original What's New, but for HAN (and HEN users is also possible), which can't have the original one modified (only CFW users can - and I might release the modified file for CFW users to have updated news). It shows the latest PSX-Place news. It's automatically updated.
