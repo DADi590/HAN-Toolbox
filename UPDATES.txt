@@ -2,7 +2,9 @@ File for HAN Toolbox Unofficial to check and prompt about updates linked bellow 
 ---
 > Don't forget... --> After 0.90 comes 1.00, NOT 0.10 (on the first one, after 0.9 comes 0.10, the second one is 1.00 - Christ, idiot less than 1 versions hahaha. NOTE: when the first gets to 1.0, the second gets to 10.0 (multiply by ten, it's the same, the second is just to check bigger or less or equal version)). Unless you actually can make it version 1.0...
 0.10 --> 1.00 --> http://github.com/DADi590/HAN-Toolbox-Unofficial/releases/download/v0.9/HAN_Toolbox_Unofficial_0_9_EN.pkg
-- Added support for OFW/HFW/CFW 4.86 CEX;
+- Added support for HFW/CFW 4.86 CEX;
+
+- Added a new feature: What's New for Browser. This is supposed to mimmic the original What's New, but for HAN (and HEN users is also possible), which can't have the original one modified (only CFW users can - and I might release the modified file for CFW users to have updated news). It shows the latest PSX-Place news. It's automatically updated.
 
 - Fixed Database Rebuilder not working (too many characters, so the PS3 will not load it) - sorry, I didn't know this at the time;
 
@@ -10,6 +12,12 @@ File for HAN Toolbox Unofficial to check and prompt about updates linked bellow 
 
 - The rest of the offline CEX functions are now in DEX too (more specifically: Database Rebuilder, File Copier, Flash Mounter and Temperature Reader);
 
-- Added an Update page and a Changelog page. Both pages are 100% offline. The first one points to where to download updates if there are any (the page checks for updates by itself and shows if there are any updates available). The second only describes all changelogs since the first version of the official HAN Toolbox to the newest version of the unofficial version (this version);
+- Added an Update Checker page and a Changelog page. Both pages are 100% offline. The first one points to where to download updates if there are any (the page also checks for updates by itself and shows if there are any updates available). The second only describes all changelogs since the first version of the official HAN Toolbox to the newest version of the unofficial version (this version);
 
-- Added an update checker for HAN Toolbox Unofficial updates in HAN Enabler and Debug Packages Enabler.
+- Added support for OFW/HFW/CFW 4.82-4.86 CEX and DEX to Offline File Copier (sorry, no idea why I didn't do this the first time);
+
+- Fixed the tools that didn't work on version 0.8 and 0.8.1 - I didn't know offline tools had restrictions at the time, sorry about that;
+
+- Added 2 more Flash Mounters (to dev_rewrite and dev_rebug);
+
+- HAN Functions is now a folder which has Offline, Online and Locally Hosted HAN Functions.
