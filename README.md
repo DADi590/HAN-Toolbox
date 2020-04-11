@@ -1,4 +1,4 @@
-# HAN Toolbox (Unofficial)
+# HAN Toolbox Unofficial
 
 Copied from the website where I first released the toolbox (PSX-Place): https://www.psx-place.com/resources/han-toolbox-unofficial.870/.
 
