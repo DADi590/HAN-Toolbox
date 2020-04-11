@@ -6,7 +6,7 @@
 - Offline Temperature Reader now displays the temperatures also in Fahrenheit;
 - The rest of the offline CEX functions are now in DEX too (more specifically: Database Rebuilder, File Copier, Flash Mounter and Temperature Reader);
 - Added an Update Checker page and a Changelog page. Both pages are 100% offline. The first one points to where to download updates if there are any (the page also checks for updates by itself and shows if there are any updates available). The second only describes all changelogs since the first version of the official HAN Toolbox to the newest version of the unofficial version (this version);
-- Added support for OFW/HFW/CFW 4.82-4.86 CEX and DEX to Offline File Copier (sorry, no idea why I didn't do this the first time);
+- Added support for OFW/HFW/CFW 4.81-4.86 CEX and DEX to Offline File Copier (sorry, no idea why I didn't do this the first time);
 - Fixed the tools that didn't work on version 0.8 and 0.8.1 - I didn't know offline tools had restrictions at the time, sorry about that;
 - Added 2 more Flash Mounters (to dev_rewrite and dev_rebug);
 - HAN Functions is now a folder which has Offline, Online and Locally Hosted HAN Functions.
