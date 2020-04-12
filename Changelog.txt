@@ -2,7 +2,7 @@
 * [NOT COMPLETED] v0.9.1 (2020/04/13) : --> ATENÇÃO À DATA AQUI E NA TOOLBOX!!!!!!!!!!
 - Added back DEX option to enable Debug Packages. I completely forgot about DEX mode for HAN and I thought DEX options would be used only by CFW users who decide to install the toolbox (some have). So, my apologies about that. It's back that option;
 - Fixed DEX toolbox submenus not showing (sorry about that, I don't know why I didn't think on testing it on my D-REX PS3);
-- Fixed DEX options speed (sorry again haha);
+- Fixed DEX options speed slow (sorry again haha);
 - Fixed some options DEX would freeze the console (and again hahaha);
 - Added a main icon to the toolbox (as requested hahaha).
 
