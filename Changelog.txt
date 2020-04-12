@@ -1,5 +1,5 @@
 ---UNOFFICIAL--
-* [NOT COMPLETED] v0.9.1 (2020/04/13) :
+* [NOT COMPLETED] v0.9.1 (2020/04/13) : --> ATENÇÃO À DATA AQUI E NA TOOLBOX!!!!!!!!!!
 - Fixed DEX toolbox submenus not showing (sorry about that, I don't know why I didn't think on testing it on my D-REX PS3);
 - Fixed DEX options speed (sorry again haha);
 - Fixed some options DEX would freeze the console (and again hahaha);
