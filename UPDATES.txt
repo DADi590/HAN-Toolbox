@@ -9,10 +9,6 @@ File for HAN Toolbox Unofficial to check and prompt about updates linked bellow 
 
 - Offline HAN Enabler seems not to be working for at least HFW/CFW 4.86. Please use the online enabler on HAN Functions --> Online HAN Functions until I release a new version with it fixed. I'm sorry, that might take a bit, because I really busy studying and it takes much time to check everything again (and actually do it from zero). But use the online enabler which works just fine.
 
-- OR
-
-- Use the link above to install a package which Coro (PSX-Place) made with a script from lmn7 (the offline functions creator) that replaces HAN Enabler with a new enabler. It will enable both Debug Packages to be installed and will allow you to run HAN licensed games. Though, it will NOT allow you to install HAN resigned packages - do install those, please use the online HAN Enabler I mentioned above.
-
 - I'm sorry about this, it shouldn't happen. Hopefully was the last time, as I was told I was doing the version check (to support all versions) in a way that was not necessary and just complicates things. So from now on I'll do it as I wanted in the beggining but I was not sure about it, so I made the hard way.
 
 - Hope people see this hahaha. I also hope this shows on the toolboxes and doesn't break the page, because I'm not with the PS3 to test that hahaha, as this is not intenteded to show messages. I'll also put a warning on the news page to stay always in first.
