@@ -5,8 +5,20 @@ File for HAN Toolbox Unofficial to check and prompt about updates linked bellow 
 
 > The first number is a string to show the version to the user. The second one is the number for the toolbox to check if it's a newer version or not.
 
+FIX FOR 4.86 FREEZING --> 1.0 --> https://www.psx-place.com/threads/han-enabler-4-86-issues.28841/page-4#post-235423
+
+- Offline HAN Enabler seems not to be working for at least HFW/CFW 4.86. Please use the online enabler on HAN Functions --> Online HAN Functions until I release a new version with it fixed. I'm sorry, that might take a bit, because I really busy studying and it takes much time to check everything again (and actually do it from zero). But use the online enabler which works just fine.
+
+- OR
+
+- Use the link above to install a package which Coro (PSX-Place) made with a script from lmn7 (the offline functions creator) that replaces HAN Enabler with a new enabler. It will enable both Debug Packages to be installed and will allow you to run HAN licensed games. Though, it will NOT allow you to install HAN resigned packages - do install those, please use the online HAN Enabler I mentioned above.
+
+- I'm sorry about this, it shouldn't happen. Hopefully was the last time, as I was told I was doing the version check (to support all versions) in a way that was not necessary and just complicates things. So from now on I'll do it as I wanted in the beggining but I was not sure about it, so I made the hard way.
+
+- Hope people see this hahaha. I also hope this shows on the toolboxes and doesn't break the page, because I'm not with the PS3 to test that hahaha, as this is not intenteded to show messages. I'll also put a warning on the news page to stay always in first.
+
 0.9 --> 0.90 --> http://github.com/DADi590/HAN-Toolbox-Unofficial/releases/download/v0.9/HAN_Toolbox_Unofficial_0_9_EN_HAN_signed.pkg
-- Added support for HFW/CFW 4.86 CEX;
+- Added support for HFW/CFW 4.86;
 
 - Added a new feature: What's New for Browser. This is supposed to mimmic the original What's New, but for HAN (and HEN users is also possible), which can't have the original one modified (only CFW users can - and I might release the modified file for CFW users to have updated news). It shows the latest PSX-Place news. It's automatically updated. Thank you so much @ira for the help debugging and making the site and @DeViL303 for all the ideas!!!
 
