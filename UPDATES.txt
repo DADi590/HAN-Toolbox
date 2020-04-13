@@ -5,7 +5,7 @@ File for HAN Toolbox Unofficial to check and prompt about updates linked bellow 
 
 > The first number is a string to show the version to the user. The second one is the number for the toolbox to check if it's a newer version or not.
 
-0 [4.85 AND 4.86 FIX FOR FREEZING] --> 1.0 --> https://www.psx-place.com/threads/han-enabler-4-86-issues.28841/page-4#post-235423
+0 [4.85 AND 4.86 FIX FOR FREEZING] --> 1.0 --> No_link
 
 - Offline HAN Enabler seems not to be working for at least HFW/CFW 4.86. Please use the online enabler on HAN Functions --> Online HAN Functions until I release a new version with it fixed. I'm sorry, that might take a bit, because I really busy studying and it takes much time to check everything again (and actually do it from zero). But use the online enabler which works just fine.
 
