@@ -1,10 +1,13 @@
 ---UNOFFICIAL--
-* [NOT COMPLETED] v0.9.1 (2020/04/13) : --> ATENÇÃO À DATA AQUI E NA TOOLBOX!!!!!!!!!!
+* v0.10 (2020/07/29) :
+- New Debug Packages Enabler and (partial) HAN Enabler added!!! (thanks lmn7 for the script! ;-) ) READ THIS HERE, IT'S NOT AS YOU MIGHT THINK --> This enabler will enable the ability to run HAN licensed games and will allow Debug PKGs to be installed - which means you activate 2 in 1. It will NOT activate the installation of HAN resigned PKGs, though!!! To install those PKGs, please use the old HAN Enabler as you normally would. The Debug Packages Enabler is now removed from the main folder and is only on the Offline HAN Functions folder. |||SUM UP OF THIS -->||| To install HAN resigned PKGs, use the normal HAN Enabler (you can also use it to run HAN licensed games as you always did); to install Debug PKGs or run HAN licensed games, use the Debug PKGs/HAN Enabler. |||<-- SUM UP OF THIS||| This option is faster and enables 2 in 1, so supposedly no use for the other option. I've kept HAN Enabler only because people have HAN resigned PKGs and they need it to install them, or I'd have removed it from the main folder too, since the other one does the job of the 2 and without rebooting;
+- Fixed all options not working, hopefully (IF ANYTHING DOESN'T WORK, please tell me so I can fix it);
 - Added back DEX option to enable Debug Packages. I completely forgot about DEX mode for HAN and I thought DEX options would be used only by CFW users who decide to install the toolbox (some have). So, my apologies about that. It's back that option;
 - Fixed DEX toolbox submenus not showing (sorry about that, I don't know why I didn't think on testing it on my D-REX PS3);
 - Fixed DEX options speed slow (sorry again haha);
 - Fixed some options DEX would freeze the console (and again hahaha);
-- Added a main icon to the toolbox (as requested hahaha).
+- Added a main icon to the toolbox (as requested hahaha);
+- Fixed Temperature Checker showing 2 dots on the temperatures sometimes.
 
 * v0.9 (2020/04/10) :
 - Added support for HFW/CFW 4.86 CEX;
