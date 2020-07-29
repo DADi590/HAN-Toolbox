@@ -20,6 +20,6 @@ Anyways, hope you enjoy it. It's not supposed to have any bugs, but if it does, 
 
 For anyone wanting this on **CFW**. Try installing it normally as it's done on OFW. If it doesn't show up, you need either to edit category_game.xml for the PS3 to know it has to load HAN Toolbox or you need to install HAN on it (if you're on 4.84 or newer, only Rebug can have HAN installed - unless you copy the silk_webkit.sprx from any 4.82 FW to your current CFW).
 
-### 3 notes:
+### 2 notes:
 - Only English available (if anyone wants to translate it, just tell me);
 - I didn't test this in all firmwares. Only on OFW 4.82. Though, it's supposed to work for all the others. If it does not work for any version, please tell me so I can fix it.
