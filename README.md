@@ -8,6 +8,8 @@ Copied from the website where I first released the toolbox (PSX-Place): https://
 
 Note 3: If anyone wants, the official toolbox is here: https://www.psx-place.com/resources/han-toolbox.628/, in case it's needed or something.
 
+**NOTE 4: The toolbox can be used on HEN**, but you must edit the same file I say bellow for CFW for it to appear. All functions work perfectly if HEN is installed.
+
 # Introduction
 
 Hi everyone.
