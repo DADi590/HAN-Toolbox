@@ -1,14 +1,24 @@
-File for HAN Toolbox Unofficial to check and prompt about updates linked bellow (the same that are on "Releases")
+File for HAN Toolbox to check and prompt about updates linked bellow (the same that are on "Releases")
 ---
 
 > Don't forget... --> After 0.90 comes 1.00, NOT 0.10 (on the first one, after 0.9 comes 0.10, the second one is 1.00 - Christ, idiot less than 1 versions hahaha. NOTE: when the first gets to 1.0, the second gets to 10.0 (multiply by ten, it's the same, the second is just to check bigger or less or equal version)). Unless you actually can make it version 1.0...
 
 > The first number is a string to show the version to the user. The second one is the number for the toolbox to check if it's a newer version or not.
 
-0 [4.85 AND 4.86 FREEZING] --> 1.0 --> No_link
+0.10 --> 0.910 --> https://github.com/DADi590/HAN-Toolbox-Unofficial/releases/download/v0.10/HAN_Toolbox_0_10_Unofficial_EN_HAN_signed.pkg
 
-- Offline HAN Enabler seems not to be working for at least HFW/CFW 4.86. Please use the online enabler on HAN Functions --> Online HAN Functions until I release a new version with it fixed. I'm sorry, that might take a bit, because I really busy studying and it takes much time to check everything again (and actually do it from zero). But use the online enabler which works just fine.
+- New Debug Packages Enabler and (partial) HAN Enabler added!!! (thanks lmn7 for the script! ;-) ) READ THIS HERE, IT'S NOT AS YOU MIGHT THINK --> This enabler will enable the ability to run HAN licensed games and will allow Debug PKGs to be installed - which means you activate 2 in 1. It will NOT activate the installation of HAN resigned PKGs, though!!! To install those PKGs, please use the old HAN Enabler as you normally would. The Debug Packages Enabler is now removed from the main folder and is only on the Offline HAN Functions folder. |||SUM UP OF THIS -->||| To install HAN resigned PKGs, use the normal HAN Enabler (you can also use it to run HAN licensed games as you always did); to install Debug PKGs or run HAN licensed games, use the Debug PKGs/HAN Enabler. |||<-- SUM UP OF THIS||| This option is faster and enables 2 in 1, so supposedly no use for the other option. I've kept HAN Enabler only because people have HAN resigned PKGs and they need it to install them, or I'd have removed it from the main folder too, since the other one does the job of the 2 and without rebooting;
 
-- I'm sorry about this, it shouldn't happen. Hopefully was the last time, as I was told I was doing the version check (to support all versions) in a way that was not necessary and just complicates things. So from now on I'll do it as I wanted in the beggining but I was not sure about it, so I made the hard way.
+- Fixed all options not working, hopefully (IF ANYTHING DOESN'T WORK, please tell me so I can fix it);
 
-- Hope people see this hahaha. I also hope this shows on the toolboxes and doesn't break the page, because I'm not with the PS3 to test that hahaha, as this is not intenteded to show messages. I'll also put a warning on the news page to stay always in first.
+- Added back DEX option to enable Debug Packages. I completely forgot about DEX mode for HAN and I thought DEX options would be used only by CFW users who decide to install the toolbox (some have). So, my apologies about that. It's back that option;
+
+- Fixed DEX toolbox submenus not showing (sorry about that, I don't know why I didn't think on testing it on my D-REX PS3);
+
+- Fixed DEX options speed slow (sorry again haha);
+
+- Fixed some options DEX would freeze the console (and again hahaha);
+
+- Added a main icon to the toolbox (as requested hahaha);
+
+- Fixed Temperature Checker showing 2 dots on the temperatures sometimes.
