@@ -1,4 +1,4 @@
----UNOFFICIAL--
+---UNOFFICIAL VERSIONS--
 * v0.10 (2020/07/29) :
 - New Debug Packages Enabler and (partial) HAN Enabler added!!! (thanks lmn7 for the script! ;-) ) READ THIS HERE, IT'S NOT AS YOU MIGHT THINK --> This enabler will enable the ability to run HAN licensed games and will allow Debug PKGs to be installed - which means you activate 2 in 1. It will NOT activate the installation of HAN resigned PKGs, though!!! To install those PKGs, please use the old HAN Enabler as you normally would. The Debug Packages Enabler is now removed from the main folder and is only on the Offline HAN Functions folder. |||SUM UP OF THIS -->||| To install HAN resigned PKGs, use the normal HAN Enabler (you can also use it to run HAN licensed games as you always did); to install Debug PKGs or run HAN licensed games, use the Debug PKGs/HAN Enabler. |||<-- SUM UP OF THIS||| This option is faster and enables 2 in 1, so supposedly no use for the other option. I've kept HAN Enabler only because people have HAN resigned PKGs and they need it to install them, or I'd have removed it from the main folder too, since the other one does the job of the 2 and without rebooting;
 - Fixed all options not working, hopefully (IF ANYTHING DOESN'T WORK, please tell me so I can fix it);
@@ -21,8 +21,6 @@
 - Added 2 more Flash Mounters (to dev_rewrite and dev_rebug);
 - HAN Functions is now a folder which has Offline, Online and Locally Hosted HAN Functions.
 
-- Added an Update page and a Changelog page. Both pages are 100% offline. The first one points to where to download updates if there are any (the page checks for updates by itself and shows if there are any updates available). The second only describes all changelogs since the first version of the official HAN Toolbox to the newest version of the unofficial version (this version).
-
 * v0.8.1 (2019/09/13) :
 - Fixed DEX options (HAN Toolbox wouldn't load on DEX), since I added the new options, but I forgot to tell the PS3 to load them (added Attributes but I forgot to edit the Queries)... Sorry, my bad. Realized it when I was copying the code to add to another toolbox.
 
@@ -31,7 +29,7 @@
 - Added Offline Hard Rebooter;
 - Added the word "Offline" to all offline functions.
 
----OFFICIAL---
+---OFFICIAL VERSIONS---
 * v0.7.1 (2019/04/10) :
 - Offline HAN Enabler & Debug PKG Enabler updated, allowing batch PKG installation - thanks to habib, Joonie & lmn7
 - Offline Flash Mounter added - thanks to lmn7
