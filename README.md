@@ -1,4 +1,4 @@
-# HAN Toolbox 0.10 (Unofficial versions)
+# HAN Toolbox (Unofficial versions)
 
 Copied from the website where I first released the toolbox (PSX-Place): https://www.psx-place.com/resources/han-toolbox-unofficial.870/.
 
@@ -30,3 +30,9 @@ For anyone wanting this on **CFW**. Try installing it normally as it's done on O
 ### 2 notes:
 - Only English available (if anyone wants to translate it, just tell me);
 - I didn't test this in all firmwares. Only on OFW 4.82. Though, it's supposed to work for all the others. If it does not work for any version, please tell me so I can fix it.
+
+### Version history (this is just to show up on Google if people search by the version XD):
+- Version 0.8 (v0.8) Unofficial
+- Version 0.8.1 (v0.8.1) Unofficial
+- Version 0.9 (v0.9) Unofficial
+- Version 0.10 (v0.10) Unofficial
