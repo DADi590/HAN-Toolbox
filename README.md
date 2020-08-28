@@ -4,7 +4,7 @@ Copied from the website where I first released the toolbox (PSX-Place): https://
 
 ## NOTICE:
 ## - This toolbox supports all firmware versions since 4.81 up until 4.86 CEX and 4.81, 4.82 and 4.84 DEX.
-## - Supports also OFW (up to 4.82), HFW and CFW.
+## - Supports also OFW (up to 4.82), HFW and CFW - CEX or DEX in any of the 3.
 ## - Can be ran on HEN too - all tools work there without any problems since HEN has HAN installed already.
 
 **Note:** To see what the next version might have, see this link: https://github.com/DADi590/HAN-Toolbox-Unofficial/releases. I always write there what's coming and I keep updating it, so I don't forget what needs to be done and others can possibly see and say something in case they don't agree or have a better idea.
