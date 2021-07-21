@@ -3,9 +3,9 @@
 Copied from the website where I first released the toolbox (PSX-Place): https://www.psx-place.com/resources/han-toolbox-unofficial.870/.
 
 ## NOTICE:
-## - This toolbox supports all firmware versions since 4.81 up until 4.86 CEX and 4.81, 4.82 and 4.84 DEX.
-## - Supports also OFW (up to 4.82), HFW and CFW - CEX or DEX in any of the 3.
-## - Can be ran on HEN too - all tools work there without any problems since HEN has HAN installed already.
+## - This toolbox supports all CEX firmware versions since 4.81 up until 4.88, and DEX versions 4.81, 4.82 and 4.84. It should also automatically support newer FW versions.
+## - Supports OFW (up to 4.82), HFW (from 4.83 and above) and CFW (all mentioned versions) - CEX or DEX in any of the 3 types of FW.
+## - Can be ran on HAN, HEN and CFW - all tools work on HEN without any problems, since HEN has HAN installed already; to use on CFW, read below.
 
 **Note:** To see what the next version might have, see this link: https://github.com/DADi590/HAN-Toolbox-Unofficial/releases. I always write there what's coming and I keep updating it, so I don't forget what needs to be done and others can possibly see and say something in case they don't agree or have a better idea.
 
@@ -14,8 +14,6 @@ Copied from the website where I first released the toolbox (PSX-Place): https://
 Note 3: If anyone wants, the official toolbox is here: https://www.psx-place.com/resources/han-toolbox.628/, in case it's needed or something.
 
 **NOTE 4: The toolbox can be used on HEN and CFW** (for CFW, please read after UPDATE and then come here if needed). Just come here: http://www.mediafire.com/folder/ae9nilt1s2ga6 (a folder on my MediaFire account) and download the file you need and rename it to category_game.xml. Then copy it to dev_flash/vsh/resource/explore/xmb. To that folder. To copy to dev_flash, you first need to mount it as dev_rewrite, dev_rebug or dev_blind, and go on the one you mounted. You can't go on dev_flash because it's protected, but any of the other 3 you can mess with them (all 4 are the same, just the last 3 are unprotected and the first one is protected). I can explain anything better if anyone needs.
-
-**NOTE 4: The toolbox can be used on HEN**, but you must edit the same file I say bellow for CFW for it to appear. All functions work perfectly if HEN is installed.
 
 # Introduction
 
@@ -35,7 +33,9 @@ Anyways, hope you enjoy it. It's not supposed to have any bugs, but if it does, 
 - I didn't test this in all firmwares. Only on OFW 4.82. Though, it's supposed to work for all the others. If it does not work for any version, please tell me so I can fix it.
 
 ### Version history (this is just to show up on Google if people search by the version XD):
-- Version 0.8 (v0.8) Unofficial
-- Version 0.8.1 (v0.8.1) Unofficial
-- Version 0.9 (v0.9) Unofficial
-- Version 0.10 (v0.10) Unofficial
+- 0.8 - v0.8
+- 0.8.1 - v0.8.1
+- 0.9 - v0.9
+- 0.10 - v0.10
+- 0.11 - v0.11
+- 0.12 - v0.12
