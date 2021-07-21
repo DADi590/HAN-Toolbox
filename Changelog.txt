@@ -1,4 +1,10 @@
 ---UNOFFICIAL VERSIONS--
+* v0.12 (2021/06/17) :
+- Added support for HFW/CFW 4.88 CEX and greater, as long as needed values don't change on newer versions (which means this update will hopefully cover all future FW updates on the PS3).
+
+* v0.11 (2021/01/02) :
+- Added support for HFW/CFW 4.87 CEX.
+
 * v0.10 (2020/07/29) :
 - New Debug Packages Enabler and (partial) HAN Enabler added!!! (thanks lmn7 for the script! ;-) ) READ THIS HERE, IT'S NOT AS YOU MIGHT THINK --> This enabler will enable the ability to run HAN licensed games and will allow Debug PKGs to be installed - which means you activate 2 in 1. It will NOT activate the installation of HAN resigned PKGs, though!!! To install those PKGs, please use the old HAN Enabler as you normally would. The Debug Packages Enabler is now removed from the main folder and is only on the Offline HAN Functions folder. |||SUM UP OF THIS -->||| To install HAN resigned PKGs, use the normal HAN Enabler (you can also use it to run HAN licensed games as you always did); to install Debug PKGs or run HAN licensed games, use the Debug PKGs/HAN Enabler. |||<-- SUM UP OF THIS||| This option is faster and enables 2 in 1, so supposedly no use for the other option. I've kept HAN Enabler only because people have HAN resigned PKGs and they need it to install them, or I'd have removed it from the main folder too, since the other one does the job of the 2 and without rebooting;
 - Fixed all options not working, hopefully (IF ANYTHING DOESN'T WORK, please tell me so I can fix it);
