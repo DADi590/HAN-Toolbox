@@ -1,6 +1,6 @@
-=========================
-== UNOFFICIAL VERSIONS ==
-=========================
+===========================
+=== UNOFFICIAL VERSIONS ===
+===========================
 
 * v0.12 (2021/06/17) :
 - Added support for HFW/CFW 4.88 CEX and greater, as long as needed values don't change on newer versions (which means this update will hopefully cover all future FW updates on the PS3).
@@ -38,9 +38,9 @@
 - Added Offline Hard Rebooter;
 - Added the word "Offline" to all offline functions.
 
-=======================
-== OFFICIAL VERSIONS ==
-=======================
+=========================
+=== OFFICIAL VERSIONS ===
+=========================
 
 * v0.7.1 (2019/04/10) :
 - Offline HAN Enabler & Debug PKG Enabler updated, allowing batch PKG installation - thanks to habib, Joonie & lmn7
