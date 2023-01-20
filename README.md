@@ -2,10 +2,12 @@
 
 Copied from the website where I first released the toolbox (PSX-Place): https://www.psx-place.com/resources/han-toolbox-unofficial.870/.
 
-## NOTICE:
-### - This toolbox supports all CEX firmware versions since 4.81 up until 4.88, and DEX versions 4.81, 4.82 and 4.84. It should also automatically support newer FW versions.
-### - Supports OFW (up to 4.82), HFW (from 4.83 and above) and CFW (all mentioned versions) - CEX or DEX in any of the 3 types of FW.
-### - Can be ran on HAN, HEN and CFW - all tools work on HEN without any problems, since HEN has HAN installed already; to use on CFW, read below.
+*FW 4.89:* it seems the automatic future-proof support works on 4.89 to at with Offline HAN Enabler on the Offline HAN Functions (thank you @zKeraTz - the toolbox was installed on HEN on FW 4.89, as there is (yet? 2022-07-13) no HAN for 4.89). No idea about more than that so far.
+
+## Works on:
+### - CEX 4.81-4.88(/4.89, check above), and DEX 4.81, 4.82 and 4.84. It should also automatically support newer FW versions.
+### - OFW (4.82-), HFW (4.83+), and CFW (all) - CEX or DEX in any of the 3 types of FW.
+### - HAN, HEN and CFW - all tools work on HEN natively since HEN has HAN installed already; to use on CFW, read Note 4.
 
 **Note:** To see what the next version might have, see this link: https://github.com/DADi590/HAN-Toolbox-Unofficial/releases. I always write there what's coming and I keep updating it, so I don't forget what needs to be done and others can possibly see and say something in case they don't agree or have a better idea.
 
