@@ -3,6 +3,7 @@
 Copied from the website where I first released the toolbox (PSX-Place): https://www.psx-place.com/resources/han-toolbox-unofficial.870/.
 
 **FW 4.89:** it seems the automatic future-proof support works on 4.89 to at with Offline HAN Enabler on the Offline HAN Functions (thank you @zKeraTz - the toolbox was installed on HEN on FW 4.89, as there is (yet? 2022-07-13) no HAN for 4.89). No idea about more than that so far.
+**EDIT:** the future-proof support did work, according to experimental HAN files for 4.89. If the values on those test files are all correct, then the toolbox is 100% with 4.89 and there's no need to update it again.
 
 ## Works on:
 ### - CEX 4.81-4.88(/4.89, check above), and DEX 4.81, 4.82 and 4.84. It should also automatically support newer FW versions.
