@@ -1,12 +1,11 @@
-File for HAN Toolbox to check and prompt about updates linked bellow (the same that are on "Releases")
+File for HAN Toolbox to check and prompt for updates linked below (the same that are on "Releases")
 ---
 
 > Don't forget... --> After 0.90 comes 1.00, NOT 0.10 (on the first one, after 0.9 comes 0.10, the second one is 1.00 - Christ, idiot less than 1 versions hahaha. NOTE: when the first gets to 1.0, the second gets to 10.0 (multiply by ten, it's the same, the second is just to check bigger or less or equal version)). Unless you actually can make it version 1.0...
 
 > The first number is a string to show the version to the user. The second one is the number for the toolbox to check if it's a newer version or not.
 
-0.12 --> 0.912 --> https://github.com/DADi590/HAN-Toolbox-Unofficial/releases/download/v0.10/HAN_Toolbox_0_12_Unofficial_EN.pkg_signed.pkg
+0.13 --> 0.913 --> https://github.com/Edw590/HAN-Toolbox-Unofficial/releases/download/v0.10/HAN_Toolbox_0_13_Unofficial_EN.pkg_signed.pkg
 
-- Added support for HFW/CFW 4.87 and 4.88 CEX (and hopefully to any newer FW versions on the PS3).
-
-Note: I didn't release version 0.11 officially because it was not tested, and the one I published on PSX-Place in a comment of the Discussion thread, had problems on it. But this one shouldn't have any (even though I didn't test it again). It's based on version 0.10, which was tested, and only minor changes were made. If it doesn't work on ANYthing, please tell me (everything should work though).
+- Added support for HFW/CFW 4.90 CEX and greater, as long as needed values don't change on newer versions.
+- Also fixed the File Copier which I think wasn't working for FWs 4.81 and 4.82.
