@@ -5,7 +5,7 @@ File for HAN Toolbox to check and prompt for updates linked below (the same that
 
 > The first number is a string to show the version to the user. The second one is the number for the toolbox to check if it's a newer version or not.
 
-0.13 --> 0.913 --> https://github.com/Edw590/HAN-Toolbox-Unofficial/releases/download/v0.10/HAN_Toolbox_0_13_Unofficial_EN.pkg_signed.pkg
+0.13 --> 0.913 --> https://github.com/Edw590/HAN-Toolbox-Unofficial/releases/download/v0.13/HAN_Toolbox_0_13_Unofficial_EN.pkg_signed.pkg
 
 - Added support for HFW/CFW 4.90 CEX and greater, as long as needed values don't change on newer versions.
 - Also fixed the File Copier which I think wasn't working for FWs 4.81 and 4.82.
