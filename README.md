@@ -2,10 +2,8 @@
 
 Copied from the website where I first released the toolbox (PSX-Place): https://www.psx-place.com/resources/han-toolbox-unofficial.870/.
 
-**FW 4.89:** it seems the toolbox needs an update for 4.90 (and for 4.80). I'll do it whenever I can (may take some time... I'm sorry).
-
 ## Works on:
-### - CEX 4.81-4.89, and DEX 4.81, 4.82 and 4.84. It should also automatically support newer FW versions.
+### - CEX 4.81-4.90, and DEX 4.81, 4.82 and 4.84. It should also automatically support newer FW versions.
 ### - OFW (4.82-), HFW (4.83+), and CFW (all) - CEX or DEX in any of the 3 types of FW.
 ### - HAN, HEN and CFW - all tools work on HEN natively since HEN has HAN installed already; to use on CFW, read Note 4.
 
