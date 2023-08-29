@@ -5,7 +5,9 @@ File for HAN Toolbox to check and prompt for updates linked below (the same that
 
 > The first number is a string to show the version to the user. The second one is the number for the toolbox to check if it's a newer version or not.
 
-0.13 --> 0.913 --> https://github.com/Edw590/HAN-Toolbox-Unofficial/releases/download/v0.13/HAN_Toolbox_0_13_Unofficial_EN.pkg_signed.pkg
+0.14 --> 0.914 --> https://github.com/Edw590/HAN-Toolbox-Unofficial/releases/download/v0.14/HAN_Toolbox_0_14_Unofficial_EN.pkg_signed.pkg
 
-- Added support for HFW/CFW 4.90 CEX and greater, as long as needed values don't change on newer versions.
-- Also fixed the File Copier which I think wasn't working for FWs 4.81 and 4.82.
+- Added support for HFW/CFW 4.80 CEX and older, as long as needed values don't change on older versions.
+- Corrected 3 pictures not working after v0.13.
+- Changed all ps3xploit.com references to ps3xploit.me (the current official domain).
+- Hopefully corrected all tools that weren't working on any FW version, if any wasn't (new "technique" applied everywhere, both on CEX and DEX tools. That includes adding to DEX the past and future-proof support that I added to the CEX tools).
