@@ -1,13 +1,13 @@
 # HAN Toolbox (Unofficial versions)
 
-Copied from the website where I first released the toolbox (PSX-Place): https://www.psx-place.com/resources/han-toolbox-unofficial.870/.
+Copied from the website where I first released the toolbox (PSX-Place): https://www.psx-place.com/resources/han-toolbox.870/.
 
 ## Works on:
 ### - CEX 4.80-4.90, and DEX 4.81, 4.82 and 4.84. It should also automatically support older and newer FW versions.
 ### - OFW (4.82-), HFW (4.83+), and CFW (all) - CEX or DEX in any of the 3 types of FW.
-### - HAN, HEN and CFW - all tools work on HEN natively since HEN has HAN installed already; to use on CFW, read Note 4.
+### - HAN, HEN and CFW - all tools work on HEN natively since HEN has HAN installed already; to use on HEN or CFW, read Note 4.
 
-**Note:** To see what the next version might have, see this link: https://github.com/DADi590/HAN-Toolbox-Unofficial/releases. I always write there what's coming and I keep updating it, so I don't forget what needs to be done and others can possibly see and say something in case they don't agree or have a better idea.
+**Note:** To see what the next version might have, see this link: https://github.com/Edw590/HAN-Toolbox/releases. I always write there what's coming and I keep updating it, so I don't forget what needs to be done and others can possibly see and say something in case they don't agree or have a better idea.
 
 **NOTE 2: Install the toolbox by enabling HAN**. I have the Debug (and the HAN, of course) version on GitHub. If you'd want it for any reason, just go there or go to Extra Info here and both links are there.
 
